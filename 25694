@@ -1,8 +1,8 @@
 Each DAO vote must reach a minimum threshold, or quorum, to be considered valid.
 
-Currently, this number is set to 60 million $JUP.
+Currently, this number is set to 60 Million JUP.
 
 We are proposing 2 options to change this threshold:
 
-1. Increase from a fixed 60 Million to a fixed 120 Million $JUP.
+1. Increase from a fixed 60 Million JUP to a fixed 120 Million JUP.
 2. Peg the Quorum to 30%~ of Staked JUP, right before each vote.
